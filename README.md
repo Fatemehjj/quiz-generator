@@ -1,17 +1,23 @@
 # quiz-generator
 generate your quiz (using microservices architecture)
+it doesnt support all requirements for microservices
 
 ## What I used 🍃 
 
- java 17,
+ java 17
+ 
  maven as a build tool
+ 
  spring boot as my framework (3.1.1 v)
- spring mvc
+ 
  spring data JPA
+
+ MySQL for my database
 
  ## features 🍃   
  
  1:🌻 get all questions with the right answers (but user will request to quiz-service so this method is not allowed but you, as a developer can do this) 
+ 
  2:🌻 get questions by category (allowed only for developers not the client)
  
  3:🌻 add a question (for developers)
