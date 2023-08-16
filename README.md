@@ -12,7 +12,7 @@ it doesnt support all requirements for microservices
  
  spring data JPA
 
- MySQL for my database
+ MySQL as my database
 
  ## features 🍃   
  
